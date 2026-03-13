@@ -5,8 +5,7 @@
   "name": "paneer Butter Masala",
   "half": 80,
   "full": 220,
-  "desc": "Creamy tomato gravy with soft paneer cubes",
-    "image": "https://images.unsplash.com/photo-1626132647523-66f1d6c5f0a3"
+  "desc": "Creamy tomato gravy with soft paneer cubes"
   },
   {
   "name": "Paneer Tikka Masala",
@@ -181,7 +180,8 @@
   {
   "name": "Veg Thali",
   "full": 220,
-  "desc": "Dal, 2 sabzi, roti, rice, pickle"
+  "desc": "Dal, 2 sabzi, roti, rice, pickle",
+     "image": "http://googleusercontent.com/image_collection/image_retrieval/17439474122219817921_0"
   },
   {
   "name": "Special Veg Thali",
@@ -193,7 +193,8 @@
   {
   "name": "Chicken Thali",
   "full": 320,
-  "desc": "Chicken curry with roti and rice"
+  "desc": "Chicken curry with roti and rice",
+     "image": "http://googleusercontent.com/image_collection/image_retrieval/12446977806860950406_0"
   },
   {
   "name": "Mutton Thali",
