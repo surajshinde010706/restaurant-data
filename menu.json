@@ -1,0 +1,266 @@
+{
+  "veg": {
+  "paneer": [
+  {
+  "name": "Paneer Butter Masala",
+  "half": 180,
+  "full": 220,
+  "desc": "Creamy tomato gravy with soft paneer cubes"
+  },
+  {
+  "name": "Paneer Tikka Masala",
+  "half": 200,
+  "full": 240,
+  "desc": "Grilled paneer cooked in rich spicy gravy"
+  },
+  {
+  "name": "Kadai Paneer",
+  "half": 190,
+  "full": 230,
+  "desc": "Paneer with capsicum in kadai masala"
+  }
+  ],
+  "kaju": [
+  {
+  "name": "Kaju Curry",
+  "half": 220,
+  "full": 260,
+  "desc": "Cashew nuts in creamy rich gravy"
+  },
+  {
+  "name": "Kaju Paneer Masala",
+  "half": 240,
+  "full": 280,
+  "desc": "Paneer and kaju cooked in royal gravy"
+  }
+  ],
+  "dal": [
+  {
+  "name": "Dal Tadka",
+  "half": 120,
+  "full": 150,
+  "desc": "Yellow lentils tempered with ghee"
+  },
+  {
+  "name": "Dal Fry",
+  "half": 130,
+  "full": 160,
+  "desc": "Classic Indian dal with spices"
+  },
+  {
+  "name": "Dal Makhani",
+  "half": 150,
+  "full": 180,
+  "desc": "Black lentils cooked with butter and cream"
+  }
+  ],
+  "vegcurry": [
+  {
+  "name": "Mix Veg",
+  "half": 160,
+  "full": 200,
+  "desc": "Seasonal vegetables cooked in spicy gravy"
+  },
+  {
+  "name": "Veg Kolhapuri",
+  "half": 170,
+  "full": 210,
+  "desc": "Spicy Maharashtrian style veg curry"
+  }
+  ]
+  },
+  "nonveg": {
+  "chicken": [
+  {
+  "name": "Chicken Curry",
+  "half": 240,
+  "full": 280,
+  "desc": "Traditional chicken curry with spices"
+  },
+  {
+  "name": "Chicken Handi",
+  "half": 260,
+  "full": 300,
+  "desc": "Chicken cooked in traditional handi"
+  },
+  {
+  "name": "Butter Chicken",
+  "half": 270,
+  "full": 310,
+  "desc": "Creamy tomato butter gravy chicken"
+  },
+  {
+  "name": "Chicken Masala",
+  "half": 250,
+  "full": 290,
+  "desc": "Spicy chicken masala curry"
+  }
+  ],
+  "mutton": [
+  {
+  "name": "Mutton Masala",
+  "half": 300,
+  "full": 340,
+  "desc": "Tender mutton cooked in spicy gravy"
+  },
+  {
+  "name": "Mutton Handi",
+  "half": 320,
+  "full": 360,
+  "desc": "Slow cooked mutton in clay pot"
+  }
+  ],
+  "fish": [
+  {
+  "name": "Fish Fry",
+  "half": 280,
+  "full": 320,
+  "desc": "Crispy fried fish with spices"
+  },
+  {
+  "name": "Fish Curry",
+  "half": 290,
+  "full": 330,
+  "desc": "Tangy fish curry with spices"
+  }
+  ],
+  "egg": [
+  {
+  "name": "Egg Curry",
+  "half": 130,
+  "full": 160,
+  "desc": "Boiled eggs in spicy gravy"
+  },
+  {
+  "name": "Egg Bhurji",
+  "half": 120,
+  "full": 150,
+  "desc": "Scrambled egg with onion and spices"
+  }
+  ]
+  },
+  "special": {
+  "chefspecial": [
+  {
+  "name": "Chef Special Curry",
+  "half": 310,
+  "full": 350,
+  "desc": "Signature curry by chef"
+  },
+  {
+  "name": "Royal Korma",
+  "half": 320,
+  "full": 360,
+  "desc": "Rich creamy royal style curry"
+  }
+  ],
+  "biryani": [
+  {
+  "name": "Veg Biryani",
+  "half": 180,
+  "full": 220,
+  "desc": "Basmati rice cooked with vegetables"
+  },
+  {
+  "name": "Chicken Biryani",
+  "half": 240,
+  "full": 280,
+  "desc": "Aromatic chicken dum biryani"
+  },
+  {
+  "name": "Mutton Biryani",
+  "half": 300,
+  "full": 340,
+  "desc": "Traditional mutton dum biryani"
+  }
+  ]
+  },
+  "thali": {
+  "vegthali": [
+  {
+  "name": "Veg Thali",
+  "full": 220,
+  "desc": "Dal, 2 sabzi, roti, rice, pickle"
+  },
+  {
+  "name": "Special Veg Thali",
+  "full": 280,
+  "desc": "Dal, paneer sabzi, roti, rice, sweet"
+  }
+  ],
+  "nonvegthali": [
+  {
+  "name": "Chicken Thali",
+  "full": 320,
+  "desc": "Chicken curry with roti and rice"
+  },
+  {
+  "name": "Mutton Thali",
+  "full": 380,
+  "desc": "Mutton curry with roti and rice"
+  }
+  ]
+  },
+  "rice": {
+  "plainrice": [
+  {
+  "name": "Plain Rice",
+  "half": 80,
+  "full": 100,
+  "desc": "Steamed basmati rice"
+  },
+  {
+  "name": "Jeera Rice",
+  "half": 100,
+  "full": 120,
+  "desc": "Rice tempered with cumin seeds"
+  }
+  ],
+  "pulao": [
+  {
+  "name": "Veg Pulao",
+  "half": 140,
+  "full": 170,
+  "desc": "Rice cooked with vegetables"
+  },
+  {
+  "name": "Kashmiri Pulao",
+  "half": 160,
+  "full": 200,
+  "desc": "Rice with dry fruits"
+  }
+  ]
+  },
+  "bread": {
+  "roti": [
+  {
+  "name": "Chapati",
+  "full": 15,
+  "desc": "Whole wheat roti"
+  },
+  {
+  "name": "Butter Roti",
+  "full": 20,
+  "desc": "Roti with butter"
+  }
+  ],
+  "naan": [
+  {
+  "name": "Plain Naan",
+  "full": 40,
+  "desc": "Soft tandoor naan"
+  },
+  {
+  "name": "Butter Naan",
+  "full": 50,
+  "desc": "Naan with butter"
+  },
+  {
+  "name": "Garlic Naan",
+  "full": 60,
+  "desc": "Garlic flavored naan"
+  }
+  ]
+  }
+  }
+  
